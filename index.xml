@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Akhil&#39;s Homepage</title>
-    <link>http://pages.cs.wisc.edu/~guliani/</link>
+    <link>https://akhilguliani.github.io/</link>
     <description>Recent content on Akhil&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Akhil Guliani</copyright>
     <lastBuildDate>Sun, 04 Dec 2016 00:03:17 -0600</lastBuildDate>
-    <atom:link href="http://pages.cs.wisc.edu/~guliani/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://akhilguliani.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Machine Learning-Based Temperature Prediction for Runtime Thermal Management across System Components</title>
-      <link>http://pages.cs.wisc.edu/~guliani/publication/mlThermal/</link>
+      <link>https://akhilguliani.github.io/publication/mlThermal/</link>
       <pubDate>Sun, 04 Dec 2016 00:03:17 -0600</pubDate>
       
-      <guid>http://pages.cs.wisc.edu/~guliani/publication/mlThermal/</guid>
+      <guid>https://akhilguliani.github.io/publication/mlThermal/</guid>
       <description>&lt;p&gt;This work is still under submission, On a hig level it deals with using comman machine learing models to provide for a rela time estimate of thermal and power characteristics of a system. These chrarteritics are further used to test a static application scheduler to mitigate the varition in thermal performance accross system components. We are in process of submission and revision for our work. I will update this section as son as we have a final word from the the Journal.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Dark Shadows: User-level Guest/Host Linux Process Shadowing</title>
-      <link>http://pages.cs.wisc.edu/~guliani/publication/darkshadow/</link>
+      <link>https://akhilguliani.github.io/publication/darkshadow/</link>
       <pubDate>Sat, 03 Dec 2016 18:11:17 -0600</pubDate>
       
-      <guid>http://pages.cs.wisc.edu/~guliani/publication/darkshadow/</guid>
+      <guid>https://akhilguliani.github.io/publication/darkshadow/</guid>
       <description>&lt;p&gt;The concept of a shadow process simplifies the design and implementation of virtualization services such as system call forwarding and device file- level device virtualization. A shadow process on the host mirrors a process in the guest at the level of the virtual and physical address space, terminating in the host physical addresses. Previous shadow process mechanisms have required changes or additions (modules) to the guest and host kernels. We describe a shadow process technique that is implemented entirely at user level in both the guest and the host. In our technique, we refer to the host shadow process as a dark shadow as it arranges its own elements to avoid conflicting with the guest process’s elements. We demonstrate the utility of dark shadows by using our implementation to create system call forwarding and device file-level device virtualization tools that are compact and simple. Our implementation of dark shadows will be made available and should be readily applicable to most hypervisors or container systems. This paper is a continuation and logical conclusion to the device file virtualization project.&lt;/p&gt;
 
 &lt;p&gt;This project is made possible by support from the United States National Science Foundation through grant CCF- 1533560 and from Sandia National Laboratories through the Hobbes Project, which is funded by the 2013 Exascale Operating and Runtime Systems Program under the Office of Advanced Scientific Computing Research in the United States Department of Energy’s Office of Science.&lt;/p&gt;
@@ -34,95 +34,95 @@
     
     <item>
       <title>Device File Virtualization</title>
-      <link>http://pages.cs.wisc.edu/~guliani/project/devfilevirt/</link>
+      <link>https://akhilguliani.github.io/project/devfilevirt/</link>
       <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://pages.cs.wisc.edu/~guliani/project/devfilevirt/</guid>
+      <guid>https://akhilguliani.github.io/project/devfilevirt/</guid>
       <description>&lt;p&gt;Developed as part of a team a proof of concept for device file virtualization for Palacios Virtual Machine Monitor. The concept allows a Linux guest to access the device files of the Linux host. Our implenattion was pulled into the main repository available publically at this &lt;a href=&#34;http://v3vee.org/palacios/gitweb/gitweb.cgi?p=palacios.git;a=commit;h=de0aa03dbd9812a48cab6d899ab41b7f2cc593b5&#34;&gt;link&lt;/a&gt;. This project started as part of a course and was developed further during an independent study.&lt;/li&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Determining the Impact of Hashtags used in Marketing Campaigns on Social Media Platforms Using Sentiment Analysis</title>
-      <link>http://pages.cs.wisc.edu/~guliani/project/sentiment/</link>
+      <link>https://akhilguliani.github.io/project/sentiment/</link>
       <pubDate>Thu, 25 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://pages.cs.wisc.edu/~guliani/project/sentiment/</guid>
+      <guid>https://akhilguliani.github.io/project/sentiment/</guid>
       <description>&lt;p&gt;Hashtags have become a common way of aggregating a group of social media users around a common topic. Most social media sites have incorporated this feature and it is now starting to be used by marketing agencies as way to engage with its audience and gauge their response to their campaigns. In this project I develop a ranking system based on quantitatively (like the number of people using a particular hashtag, etc.) and qualitatively (Using sentiment analysis to classify the user’s engagement as a positive or a negative, and associate an emotional response to it) analyzing data gathered social media outlets (primarily twitter). I hope that this method is able to provide a consistent view of the engagement level of users towards a product based on the hashtags associated with it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Modular Smartwatch</title>
-      <link>http://pages.cs.wisc.edu/~guliani/project/smartwatch/</link>
+      <link>https://akhilguliani.github.io/project/smartwatch/</link>
       <pubDate>Mon, 04 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://pages.cs.wisc.edu/~guliani/project/smartwatch/</guid>
+      <guid>https://akhilguliani.github.io/project/smartwatch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Study of Loop perforation in GP-GPU applications</title>
-      <link>http://pages.cs.wisc.edu/~guliani/project/loopperf/</link>
+      <link>https://akhilguliani.github.io/project/loopperf/</link>
       <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://pages.cs.wisc.edu/~guliani/project/loopperf/</guid>
+      <guid>https://akhilguliani.github.io/project/loopperf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of Electrical Characteristics using a Lambert W-Function Technique and MATLAB Simulation for Dye Sensitised ZnO Solar Cell</title>
-      <link>http://pages.cs.wisc.edu/~guliani/publication/mathmodel/</link>
+      <link>https://akhilguliani.github.io/publication/mathmodel/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://pages.cs.wisc.edu/~guliani/publication/mathmodel/</guid>
+      <guid>https://akhilguliani.github.io/publication/mathmodel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Study and Implementation of Natural User Interface using Kinect</title>
-      <link>http://pages.cs.wisc.edu/~guliani/publication/nuistudy/</link>
+      <link>https://akhilguliani.github.io/publication/nuistudy/</link>
       <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://pages.cs.wisc.edu/~guliani/publication/nuistudy/</guid>
+      <guid>https://akhilguliani.github.io/publication/nuistudy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Air India Internship Report</title>
-      <link>http://pages.cs.wisc.edu/~guliani/project/intern2/</link>
+      <link>https://akhilguliani.github.io/project/intern2/</link>
       <pubDate>Tue, 17 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://pages.cs.wisc.edu/~guliani/project/intern2/</guid>
+      <guid>https://akhilguliani.github.io/project/intern2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Study And Implementation Of Real Time Operating Systems For 8-bit Microcontrollers</title>
-      <link>http://pages.cs.wisc.edu/~guliani/project/rtos/</link>
+      <link>https://akhilguliani.github.io/project/rtos/</link>
       <pubDate>Sat, 30 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://pages.cs.wisc.edu/~guliani/project/rtos/</guid>
+      <guid>https://akhilguliani.github.io/project/rtos/</guid>
       <description>&lt;p&gt;Report on Internship at IIT Delhi in summer 2011. I studied Real Time operating systems (RTOS) and surveyed the possible RTOS options available for a TinyAVR microcontrollers. Chose to use Femto OS. Built the reference board and implemented an I2C driver for Femto OS for the design.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Design and implementation of a programmer for TI CC2530</title>
-      <link>http://pages.cs.wisc.edu/~guliani/project/intern1/</link>
+      <link>https://akhilguliani.github.io/project/intern1/</link>
       <pubDate>Sun, 30 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://pages.cs.wisc.edu/~guliani/project/intern1/</guid>
+      <guid>https://akhilguliani.github.io/project/intern1/</guid>
       <description>&lt;p&gt;As Part of Internship at IIT Delhi, Learnt the basics related to using linux and open source tools to do projects in embedded systems. As a minor task to show case the knowledge I had to develop a microcontroller based programmer for the SoC TI CC2530. I Developed the embedded hardware and software for the programmer based on a given design. Also patched the Linux OS application for the programmer to provide it the ability to recognize and program the SoC.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PC Board Design for 8051 Microcontroller</title>
-      <link>http://pages.cs.wisc.edu/~guliani/project/intern3/</link>
+      <link>https://akhilguliani.github.io/project/intern3/</link>
       <pubDate>Fri, 30 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://pages.cs.wisc.edu/~guliani/project/intern3/</guid>
+      <guid>https://akhilguliani.github.io/project/intern3/</guid>
       <description>&lt;p&gt;As Part of Internship at IIT Delhi, Learnt the basics related to  embedded systems, in particular microcontrollers and PCB design for a basic development board for the 8051.&lt;/p&gt;
 </description>
     </item>

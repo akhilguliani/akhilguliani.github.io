@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo on Akhil&#39;s Homepage</title>
-    <link>http://pages.cs.wisc.edu/~guliani/tags/demo/</link>
+    <link>https://akhilguliani.github.io/tags/demo/</link>
     <description>Recent content in Demo on Akhil&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Akhil Guliani</copyright>
     <lastBuildDate>Wed, 25 Mar 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://pages.cs.wisc.edu/~guliani/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://akhilguliani.github.io/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Study of Loop perforation in GP-GPU applications</title>
-      <link>http://pages.cs.wisc.edu/~guliani/project/loopperf/</link>
+      <link>https://akhilguliani.github.io/project/loopperf/</link>
       <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://pages.cs.wisc.edu/~guliani/project/loopperf/</guid>
+      <guid>https://akhilguliani.github.io/project/loopperf/</guid>
       <description></description>
     </item>
     

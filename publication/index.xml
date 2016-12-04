@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Akhil&#39;s Homepage</title>
+    <link>http://pages.cs.wisc.edu/~guliani/publication/</link>
+    <description>Recent content in Publications on Akhil&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Akhil Guliani</copyright>
+    <lastBuildDate>Sun, 04 Dec 2016 00:03:17 -0600</lastBuildDate>
+    <atom:link href="http://pages.cs.wisc.edu/~guliani/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Machine Learning-Based Temperature Prediction for Runtime Thermal Management across System Components</title>
+      <link>http://pages.cs.wisc.edu/~guliani/publication/mlThermal/</link>
+      <pubDate>Sun, 04 Dec 2016 00:03:17 -0600</pubDate>
+      
+      <guid>http://pages.cs.wisc.edu/~guliani/publication/mlThermal/</guid>
+      <description>&lt;p&gt;This work is still under submission, On a hig level it deals with using comman machine learing models to provide for a rela time estimate of thermal and power characteristics of a system. These chrarteritics are further used to test a static application scheduler to mitigate the varition in thermal performance accross system components. We are in process of submission and revision for our work. I will update this section as son as we have a final word from the the Journal.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dark Shadows: User-level Guest/Host Linux Process Shadowing</title>
+      <link>http://pages.cs.wisc.edu/~guliani/publication/darkshadow/</link>
+      <pubDate>Sat, 03 Dec 2016 18:11:17 -0600</pubDate>
+      
+      <guid>http://pages.cs.wisc.edu/~guliani/publication/darkshadow/</guid>
+      <description>&lt;p&gt;The concept of a shadow process simplifies the design and implementation of virtualization services such as system call forwarding and device file- level device virtualization. A shadow process on the host mirrors a process in the guest at the level of the virtual and physical address space, terminating in the host physical addresses. Previous shadow process mechanisms have required changes or additions (modules) to the guest and host kernels. We describe a shadow process technique that is implemented entirely at user level in both the guest and the host. In our technique, we refer to the host shadow process as a dark shadow as it arranges its own elements to avoid conflicting with the guest process’s elements. We demonstrate the utility of dark shadows by using our implementation to create system call forwarding and device file-level device virtualization tools that are compact and simple. Our implementation of dark shadows will be made available and should be readily applicable to most hypervisors or container systems. This paper is a continuation and logical conclusion to the device file virtualization project.&lt;/p&gt;
+
+&lt;p&gt;This project is made possible by support from the United States National Science Foundation through grant CCF- 1533560 and from Sandia National Laboratories through the Hobbes Project, which is funded by the 2013 Exascale Operating and Runtime Systems Program under the Office of Advanced Scientific Computing Research in the United States Department of Energy’s Office of Science.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis of Electrical Characteristics using a Lambert W-Function Technique and MATLAB Simulation for Dye Sensitised ZnO Solar Cell</title>
+      <link>http://pages.cs.wisc.edu/~guliani/publication/mathmodel/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://pages.cs.wisc.edu/~guliani/publication/mathmodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Study and Implementation of Natural User Interface using Kinect</title>
+      <link>http://pages.cs.wisc.edu/~guliani/publication/nuistudy/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pages.cs.wisc.edu/~guliani/publication/nuistudy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sentiment on Akhil&#39;s Homepage</title>
+    <link>http://pages.cs.wisc.edu/~guliani/tags/sentiment/</link>
+    <description>Recent content in Sentiment on Akhil&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Akhil Guliani</copyright>
+    <lastBuildDate>Thu, 25 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://pages.cs.wisc.edu/~guliani/tags/sentiment/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Determining the Impact of Hashtags used in Marketing Campaigns on Social Media Platforms Using Sentiment Analysis</title>
+      <link>http://pages.cs.wisc.edu/~guliani/project/sentiment/</link>
+      <pubDate>Thu, 25 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pages.cs.wisc.edu/~guliani/project/sentiment/</guid>
+      <description>&lt;p&gt;Hashtags have become a common way of aggregating a group of social media users around a common topic. Most social media sites have incorporated this feature and it is now starting to be used by marketing agencies as way to engage with its audience and gauge their response to their campaigns. In this project I develop a ranking system based on quantitatively (like the number of people using a particular hashtag, etc.) and qualitatively (Using sentiment analysis to classify the user’s engagement as a positive or a negative, and associate an emotional response to it) analyzing data gathered social media outlets (primarily twitter). I hope that this method is able to provide a consistent view of the engagement level of users towards a product based on the hashtags associated with it.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

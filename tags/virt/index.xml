@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virt on Akhil&#39;s Homepage</title>
+    <link>http://pages.cs.wisc.edu/~guliani/tags/virt/</link>
+    <description>Recent content in Virt on Akhil&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Akhil Guliani</copyright>
+    <lastBuildDate>Thu, 03 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://pages.cs.wisc.edu/~guliani/tags/virt/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Device File Virtualization</title>
+      <link>http://pages.cs.wisc.edu/~guliani/project/devfilevirt/</link>
+      <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pages.cs.wisc.edu/~guliani/project/devfilevirt/</guid>
+      <description>&lt;p&gt;Developed as part of a team a proof of concept for device file virtualization for Palacios Virtual Machine Monitor. The concept allows a Linux guest to access the device files of the Linux host. Our implenattion was pulled into the main repository available publically at this &lt;a href=&#34;http://v3vee.org/palacios/gitweb/gitweb.cgi?p=palacios.git;a=commit;h=de0aa03dbd9812a48cab6d899ab41b7f2cc593b5&#34;&gt;link&lt;/a&gt;. This project started as part of a course and was developed further during an independent study.&lt;/li&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

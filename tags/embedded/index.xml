@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Embedded on Akhil&#39;s Homepage</title>
+    <link>http://pages.cs.wisc.edu/~guliani/tags/embedded/</link>
+    <description>Recent content in Embedded on Akhil&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Akhil Guliani</copyright>
+    <lastBuildDate>Mon, 04 May 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://pages.cs.wisc.edu/~guliani/tags/embedded/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Modular Smartwatch</title>
+      <link>http://pages.cs.wisc.edu/~guliani/project/smartwatch/</link>
+      <pubDate>Mon, 04 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pages.cs.wisc.edu/~guliani/project/smartwatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study And Implementation Of Real Time Operating Systems For 8-bit Microcontrollers</title>
+      <link>http://pages.cs.wisc.edu/~guliani/project/rtos/</link>
+      <pubDate>Sat, 30 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://pages.cs.wisc.edu/~guliani/project/rtos/</guid>
+      <description>&lt;p&gt;Report on Internship at IIT Delhi in summer 2011. I studied Real Time operating systems (RTOS) and surveyed the possible RTOS options available for a TinyAVR microcontrollers. Chose to use Femto OS. Built the reference board and implemented an I2C driver for Femto OS for the design.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design and implementation of a programmer for TI CC2530</title>
+      <link>http://pages.cs.wisc.edu/~guliani/project/intern1/</link>
+      <pubDate>Sun, 30 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://pages.cs.wisc.edu/~guliani/project/intern1/</guid>
+      <description>&lt;p&gt;As Part of Internship at IIT Delhi, Learnt the basics related to using linux and open source tools to do projects in embedded systems. As a minor task to show case the knowledge I had to develop a microcontroller based programmer for the SoC TI CC2530. I Developed the embedded hardware and software for the programmer based on a given design. Also patched the Linux OS application for the programmer to provide it the ability to recognize and program the SoC.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PC Board Design for 8051 Microcontroller</title>
+      <link>http://pages.cs.wisc.edu/~guliani/project/intern3/</link>
+      <pubDate>Fri, 30 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://pages.cs.wisc.edu/~guliani/project/intern3/</guid>
+      <description>&lt;p&gt;As Part of Internship at IIT Delhi, Learnt the basics related to  embedded systems, in particular microcontrollers and PCB design for a basic development board for the 8051.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
